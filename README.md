@@ -1,2 +1,2 @@
-# multiplymaster.github.io
+# multiplymaster
 multiplymaster
