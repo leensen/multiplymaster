@@ -46,3 +46,33 @@ If this privacy policy changes in the future, the updated version will be publis
 If you have any questions about this privacy policy, you can contact the developer via GitHub:
 
 https://github.com/leensen
+
+
+---
+
+# Privacybeleid – Vermenigvuldig Meester
+
+Vermenigvuldig Meester respecteert uw privacy. Deze applicatie verzamelt, bewaart of deelt geen persoonsgegevens.
+
+## Gegevensverzameling
+
+De app verzamelt geen persoonlijke gegevens en maakt geen gebruik van advertenties, analytics of tracking.
+
+## Lokale opslag
+
+Spelvoortgang en highscores worden uitsluitend lokaal op uw apparaat opgeslagen en nooit gedeeld met derden.
+
+## Internetgebruik
+
+De app werkt volledig offline en maakt geen verbinding met externe servers.
+
+## Privacy van kinderen
+
+Vermenigvuldig Meester is geschikt voor kinderen en verzamelt geen persoonsgegevens.
+
+## Contact
+
+Voor vragen kunt u contact opnemen via GitHub:
+
+https://github.com/leensen
+
